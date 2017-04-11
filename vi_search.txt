@@ -1,0 +1,14 @@
+Search forward for pattern#/pattern
+Search backward for pattern#?backward
+Repeat search in same direction#n
+Repeat search in opposite direction#N
+Move cursor forward to first occurrence of character#f<character>
+Move cursor backward to first occurrence of character#F<character>
+Move cursor forward to before first occurrence of character#t<character>
+Move cursor backward to before first occurrence of character#T<character>
+Repeat search in same direction for f, F, t, T#;
+Repeat search in opposite direction for f, F, t, T#,
+Replace first s1 with s2 in lines n1 to n2#:n1,n2s/s1/s2/
+Replace s1 with s2 in lines n1 to n2#:n1,n2s/s1/s2/g
+Interactively replace s1 with s2 from current line to end#:.,$s/s1/s2/gc
+Repeat last substitution on current line (linux only)#:s

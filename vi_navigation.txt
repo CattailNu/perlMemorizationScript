@@ -1,0 +1,12 @@
+Back to beginning of word#b
+Back 4 words to beginning of word#4b
+Forward to end of word#e
+Forward to beginning of word#w
+Forward 8 words to beginning of word#8w
+Move to beginning of line#0 , |
+Move to column 30#30|
+Move to first word in line#^
+Move to end of line#$
+Move to beginning of file#1G
+Move to line 40#40G
+Move to end of file#G

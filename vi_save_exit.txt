@@ -1,0 +1,13 @@
+Save file and remain in edit mode#:w
+Save file and quit#:x , :wq
+Quit if no changes#:q
+Quit, discard changes#:q!
+Save to newfile.pl#:w newfile.pl
+Save to newfile.pl, overwriting#:w! newfile.pl
+Writes lines n1 to n2 to file build.sql#:n1,n2w build.sql
+Writes current line to file build.sql#:.w build.sql
+Writes last line to file build.sql#:$w build.sql
+Escapes to shell#:sh
+Return to vi after escaping to UNIX shell#exit
+Suspend current session and escape to shell#<ctrl>z
+Return to vi after suspending#fg

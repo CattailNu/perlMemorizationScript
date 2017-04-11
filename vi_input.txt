@@ -1,0 +1,10 @@
+Insert text left of cursor#i
+Insert text at beginning of line#I
+Append text right of cursor#a
+Append text at end of line#A
+Open line below#o
+Open line above#O
+Replace single character#r<ch>
+Replace text from cursor to right (overwrite)#R
+Replace single character under cursor with multiple characters#s
+Replace entire line#S

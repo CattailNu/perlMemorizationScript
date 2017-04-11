@@ -1,0 +1,8 @@
+Match zero or more of previous character#*
+Match single character which is p, q or r#[pqr]
+Match single character which is not p, q or r#[^pqr]
+Match single character#.
+Match pattern pat at beginning of line#^pat
+Match pattern pat at end of line#pat$
+Match pattern pat at beginning of word#\<pat
+Match pattern pat at end of word#pat\>

@@ -1,0 +1,12 @@
+Move cursor left#h , <backspace>
+Move cursor right#l , <spacebar>
+Move 5 characters right#5l
+Move cursor up#k
+Move cursor 10 lines up#10k
+Move cursor down#j
+Scroll full page forward#<ctrl>f
+Scroll 5 full pages forward#5<Ctrl>f
+Scrolls full page backward#<ctrl>b
+Scroll half page backward#<ctrl>u
+Scroll half page forward#<ctrl>d
+Redraw screen#<ctrl>l

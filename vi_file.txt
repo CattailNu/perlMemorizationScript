@@ -1,0 +1,8 @@
+Read file foo below current line#:r foo
+Read output of date command below current line#:r !date
+Stop editing current file and edit file foo#:e foo
+Stop editing current file, abandon changes, and edit file foo#:e! foo
+Load last saved edition of current file#:e!
+Return to most recently edited file#<ctrl>^ , :e<number sign>
+Edit next file#:n
+Rewind file list to start editing first file#:rew

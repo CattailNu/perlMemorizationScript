@@ -1,0 +1,22 @@
+Delete character under cursor#x
+Delete character under cursor and 5 more to right#6x
+Delete previous character#X
+Join current line with next line#J
+Delete from cursor to end of line#d$ , D
+Delete current line#dd
+Delete 5 lines#5dd
+Delete 4 words#4dw , d4w
+Delete from cursor to line 30#d30G
+Delete from cursor to first .#df.
+Delete from cursor forward to first endif#d/endif
+Change from cursor to beginning of line#c0
+Change from cursor to end of line#c$ or C
+Change 3 words#3cw , c3w
+Change current line#cc
+Change from cursor to end of file#cG
+Reverse case of character under cursor#~
+Reverse case of 40 characters#40~
+Repeat last edit instruction#.
+Undo last edit instruction#u
+Undo all edit instructions for current line#U
+Redo previous undo (linux only)#<ctrl>r

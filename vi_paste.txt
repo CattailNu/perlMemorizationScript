@@ -1,0 +1,8 @@
+Yank current line#yy , Y
+Yank from cursor to end of line#y$
+Copy 6 lines#6yy
+Copy current word#yw
+Yank 3 words#3yw , y3w
+Yank from cursor backwards to endif#y?endif
+Put deleted or copied text below current line or right of cursor#p
+Put deleted or copied text above current line or on left of cursor#P
